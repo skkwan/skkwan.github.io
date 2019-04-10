@@ -1,23 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About Me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
----
-title: 'About Me'
-date: Last updated 2019-04-10
-permalink: /aboutme/
-tags:
-  - About Me
-  - Physics
-  - PhD
-  - Women In STEM
----
 
 I am a first-year graduate student at the Princeton Physics Department, and previously went to Caltech where I did my B.S. in Physics. I'm interested in designing and developing hardware and software techniques to improve the chances of discovering new physics at experiments such as the Compact Muon Solenoid at CERN, and PTOLEMY (Princeton Tritium Observatory for Light, Early-Universe, Massive-Neutrino Yield). Outside of research, I enjoy organizing events and being engaged with the Princeton Women in Physics group.
 
