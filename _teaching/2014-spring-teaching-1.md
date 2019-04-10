@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Grading TA for Caltech Physics Department"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/CaltechGradingTA
+venue: "Caltech, Physics Department"
+date: 2018-01-02 to 2018-06-02
+location: "Pasadena, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Undergraduate grading TA for Ph 2b (Quantum Mechanics) and Ph 2c (Statistical Physics), courses for sophomores not majoring in physics.
