@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am a first-year graduate student at the Princeton Physics Department, and previously went to Caltech where I did my B.S. in Physics. I'm interested in designing and developing hardware and software techniques to improve the chances of discovering new physics at experiments such as the Compact Muon Solenoid at CERN, and PTOLEMY (Princeton Tritium Observatory for Light, Early-Universe, Massive-Neutrino Yield). Outside of research, I enjoy organizing events and being engaged with the Princeton Women in Physics group.
+I am a first-year graduate student at the Princeton Physics Department, and was a physics undergrad at Caltech. Currently I'm interested in designing and developing hardware and software techniques to improve the chances of discovering new physics at experiments such as the [Compact Muon Solenoid at CERN](https://home.cern/science/experiments/cms), and [PTOLEMY](https://www.princeton.edu/news/2016/03/14/hunt-big-bang-neutrinos-may-provide-fresh-insight-origin-universe) (Princeton Tritium Observatory for Light, Early-Universe, Massive-Neutrino Yield). Outside of research, I enjoy organizing events and being engaged with the Princeton Women in Physics group.
 
 Research
 ======
-I will be traveling to CERN the summer of 2019 to continue my research on developing machine learning techniques for high-speed, low-cost FPGAs, that will be capable of rapidly and accurately identifying particles at the CMS Experiment's Level 1 Trigger in the High-Luminosity LHC upgrade. This work will be conducted with the mentorship of [Prof. Isobel Ojalvo](https://phy.princeton.edu/people/isobel-ojalvo). I am also planning future work on the [PTOLEMY experiment](https://www.princeton.edu/news/2016/03/14/hunt-big-bang-neutrinos-may-provide-fresh-insight-origin-universe) for cosmic relic neutrino detection, with the mentorship of [Prof. Chris Tully](https://phy.princeton.edu/people/christopher-tully).
+I will be traveling to CERN the summer of 2019 to continue my research on developing machine learning techniques for high-speed, low-cost FPGAs, that will be capable of rapidly and accurately identifying particles at the CMS Experiment's Level 1 Trigger in the High-Luminosity LHC upgrade. This work will be conducted with the mentorship of [Prof. Isobel Ojalvo](https://phy.princeton.edu/people/isobel-ojalvo). I am also planning future work on the PTOLEMY experiment for cosmic relic neutrino detection, with the mentorship of [Prof. Chris Tully](https://phy.princeton.edu/people/christopher-tully).
 
-Starting in Fall 2019, I will also be supported by the National Science Foundation's [Graduate Research Fellowship Program](https://www.nsfgrfp.org).
+Starting in Fall 2019, I will be supported by the National Science Foundation's [Graduate Research Fellowship Program](https://www.nsfgrfp.org).
 
 Princeton WiP group
 ======
