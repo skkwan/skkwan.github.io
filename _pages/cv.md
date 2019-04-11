@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My CV is located[here](http://skkwan.github.io/skkwan.github.io/files/CV_Apr2019.pdf).
+Located [here](http://skkwan.github.io/skkwan.github.io/files/CV_Apr2019.pdf) (last updated: Apr 10, 2019).
 
 {% include base_path %}
 
